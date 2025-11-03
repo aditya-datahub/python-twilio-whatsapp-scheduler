@@ -70,7 +70,7 @@ auth_token = 'YOUR_TWILIO_AUTH_TOKEN'
 ```
 ---
 
-# ▶️ Usage
+## ▶️ Usage
 
 Run the script:
 python whatsapp_scheduler.py
@@ -85,7 +85,7 @@ Follow the on-screen instructions:
 
 ---
 
-# 🧠 Example Output
+## 🧠 Example Output
 
 Enter recipient's name: Aditya
 Enter recipient's WhatsApp number with country code (e.g., +1234567890): +919876543210
